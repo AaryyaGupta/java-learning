@@ -1,4 +1,5 @@
-public class Strings {
+
+     public class Strings {
      public static void main(String[] args) {
         
         //   String q ="Aarya";
@@ -76,6 +77,10 @@ public class Strings {
                // my name is aaryya
            // \n is used to print in new line
            
+     String acd= 45;
+    Integer.parseInt(acd); //string to integrr
+     
+
           
 
 
